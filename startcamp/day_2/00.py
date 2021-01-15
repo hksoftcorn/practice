@@ -1,0 +1,2 @@
+NUMBER = 3
+print(NUMBER)
